@@ -9,8 +9,8 @@
 
 
 
-<h6 align="right">Connect with me:</h3>
-<p align="right">
+<h6 align="left">Connect with me:</h3>
+<p align="left">
  <a href="https://www.linkedin.com/in/michelleorodio/" target="blank"><img align="center" src="https://img.icons8.com/pulsar-color/48/null/linkedin.png" alt="cheorodio" height="25" width="25" /></a>
 <a href="https://instagram.com/cheorodio" target="blank"><img align="center"  src="https://img.icons8.com/pulsar-color/48/null/instagram-new.png" alt="cheorodio" height="25" width="25" /></a>
   <a href="https://twitter.com/cheorodio" target="blank"><img align="center" src="https://img.icons8.com/cotton/64/null/twitter.png" alt="cheorodio" height="25" width="25" /></a>
