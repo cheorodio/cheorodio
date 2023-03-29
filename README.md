@@ -1,5 +1,5 @@
-### Hi friends 👋 I'm Michelle.
-✦ I'm currently learning web development at upLeveled bootcamp in Vienna, Austria.
+# Hi friends 👋 I'm Michelle.
+### ✨ I'm currently learning web development at upLeveled bootcamp in Vienna, Austria.
 
 
 <!--
