@@ -1,4 +1,4 @@
-<h1 align="center"> Hi friends 👋 I'm Michelle </h1>
+![Turquoise Simple Modern Linkedin Banner](https://user-images.githubusercontent.com/121162907/229280381-0e8803d8-f338-4348-b6d0-ad315e13f2e4.gif)
 <h4 align="center"> ✨ A web development bootcamp student at upLeveled in Vienna, Austria. ✨ </h3>
 
 
