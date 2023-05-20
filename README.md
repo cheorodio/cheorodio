@@ -2,7 +2,7 @@
 # Hi friends 👋 I'm Michelle
 🌱  I’m currently learning **PERN stack** at [upLeveled](https://github.com/upleveled) bootcamp <br/>
 
-🔭  I’m currently working on a [vida.](https://github.com/cheorodio/next-ecommerce-store), my next.js e-commerce project at upLeveled <br/>
+🔭  I’m currently working on [vida.](https://github.com/cheorodio/next-ecommerce-store), my next.js e-commerce project at upLeveled <br/>
 
 📧 How to reach me: cheorodio@gmail.com <br/>
 
