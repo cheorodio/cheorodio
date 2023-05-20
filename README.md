@@ -29,7 +29,7 @@
 
 ### 🔥 Github Stat
 <img src="https://github-readme-stats.vercel.app/api?username=cheorodio&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" height="140px" />        <img src="https://streak-stats.demolab.com/?user=cheorodio&theme=dark" height="140px"  /> <br/>
-<img src="https://komarev.com/ghpvc/?username=cheorodio&&style=flat-square" align="center" />
+<!-- <img src="https://komarev.com/ghpvc/?username=cheorodio&&style=flat-square" align="center" /> -->
 <!-- ###### Connect with me
 </a>
 <a href="https://twitter.com/cheorodio" target="_blank">
