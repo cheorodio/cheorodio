@@ -1,5 +1,7 @@
 <!-- ![Turquoise Simple Modern Linkedin Banner](https://user-images.githubusercontent.com/121162907/229280381-0e8803d8-f338-4348-b6d0-ad315e13f2e4.gif) -->
-# Hi friends 👋 I'm Michelle
+<h1 align="center"> Hi 👋 I'm Michelle </h1>
+<h3 align="center"> A web developer based in Vienna, Austria with a keen eye for clean UI/UX design </h3>
+
 🌱  I’m currently learning **PERN stack** at [upLeveled](https://github.com/upleveled) bootcamp <br/>
 
 🔭  I’m currently working on [golokal](https://github.com/cheorodio/golokal), a PWA project connecting users to local vendors and small businesses <br/>
