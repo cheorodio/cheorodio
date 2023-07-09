@@ -9,7 +9,7 @@
 
 📧 How to reach me: cheorodio@gmail.com <br/>
 
-⚡ Fun fact: I am obsessed with my hybrid little dog 🐶
+⚡ Fun fact: I am obsessed with my chibrid little dog 🐶
 <br/>
 <br/>
 
