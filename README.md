@@ -5,16 +5,16 @@
 <br/>
 
 > I prioritise a user-centric approach to my work. Frontend Development, Accessibility and UI/UX design excite me the most and these are skills I’m eager to further develop. I’m developing using React, TypeScript, JavaScript, REST Apis, Node.js, PostgreSQL, Figma, Jest, and more but I’m excited and willing to learn more technologies.
-
-<br/>
-
-🌱  I’m currently learning **PERN stack** at [upLeveled](https://github.com/upleveled) bootcamp <br/>
-
-🔭  I’m currently working on [golokal](https://github.com/cheorodio/golokal), a PWA project connecting users to local vendors and small businesses <br/>
-
-📧 How to reach me: cheorodio@gmail.com <br/>
-
-⚡ Fun fact: I am obsessed with my chibrid little dog 🐶
+>
+> <br/>
+>
+> 🌱  I’m currently learning **PERN stack** at [upLeveled](https://github.com/upleveled) bootcamp <br/>
+>
+> 🔭  I’m currently working on [golokal](https://github.com/cheorodio/golokal), a PWA project connecting users to local vendors and small businesses <br/>
+>
+> 📧 How to reach me: cheorodio@gmail.com <br/>
+>
+> ⚡ Fun fact: I am obsessed with my chibrid little dog 🐶
 <br/>
 <br/>
 
