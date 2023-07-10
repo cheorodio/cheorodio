@@ -16,7 +16,6 @@
 >
 > ⚡ Fun fact: I am obsessed with my chibrid little dog 🐶
 <br/>
-<br/>
 
  #### Connect with me:
 <p align="left">
