@@ -1,7 +1,7 @@
 <!-- ![Turquoise Simple Modern Linkedin Banner](https://user-images.githubusercontent.com/121162907/229280381-0e8803d8-f338-4348-b6d0-ad315e13f2e4.gif) -->
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/121162907/252382667-093906ea-6487-4115-b6c1-faca1559c6ec.png" alt="banner"/>
 <h1 align="center"> Hi 👋 I'm <a href="https://www.linkedin.com/in/michelle-orodio/">Michelle</a> </h1>
-<h4 align="center"> A frontend developer based in Vienna, Austria with a keen eye for clean UI/UX design and a passion for accessibility </h4>
+<h4 align="center"> A frontend developer based in Vienna, Austria with a keen eye for UI/UX design and a passion for accessibility </h4>
 <br/>
 
 > I prioritise a user-centric approach to my work. Frontend Development, Accessibility and UI/UX design excite me the most and these are skills I’m eager to further develop. I’m developing using React, TypeScript, JavaScript, REST Apis, Node.js, PostgreSQL, Figma, Jest, and more but I’m excited and willing to learn more technologies.
