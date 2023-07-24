@@ -8,7 +8,7 @@
 >
 > <br/>
 >
-> 🌱  I’m currently learning **PERN stack** at [upLeveled](https://github.com/upleveled) bootcamp <br/>
+> 🎓 [UpLeveled](https://github.com/upleveled) bootcamp graduate <br/>
 >
 > 🔭  I’m currently working on [golokal](https://github.com/cheorodio/golokal), a PWA project connecting users to local vendors and small businesses <br/>
 >
