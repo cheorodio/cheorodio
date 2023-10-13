@@ -1,4 +1,4 @@
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/121162907/252382667-093906ea-6487-4115-b6c1-faca1559c6ec.png" alt="banner"/>
+<!-- <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/121162907/252382667-093906ea-6487-4115-b6c1-faca1559c6ec.png" alt="banner"/> -->
 <h1 align="center"> Hi 👋 I'm Michelle </h1>
 
 <div align="center">
