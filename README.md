@@ -1,14 +1,12 @@
 <!-- <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/121162907/252382667-093906ea-6487-4115-b6c1-faca1559c6ec.png" alt="banner"/> -->
 <h1 align="center"> Hi 👋 I'm Michelle </h1>
+<div align="left" width = 500px/>
+<picture> <img align="right" src="https://github.com/cheorodio/cheorodio/assets/121162907/8de4aca1-369a-4072-80dc-fe097e91a9be" width = 300px></picture>
 
+ <!--
 <div align="center">
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=FFF3E7&center=true&vCenter=true&width=435&lines=A+developer;A+storyteller;An+explorer;An+innovator" alt="Typing SVG" />
 </div>
-
-<!-- <h4 align="center"> A frontend developer based in Vienna, Austria with a keen eye for UI/UX design and a passion for accessibility </h4> -->
-
-<picture> <img align="right" src="https://github.com/cheorodio/cheorodio/assets/121162907/8de4aca1-369a-4072-80dc-fe097e91a9be" width = 300px></picture>
-
 🎓 [UpLeveled](https://github.com/upleveled) bootcamp graduate <br/>
 
 🔭  I’m currently working on [golokal](https://github.com/cheorodio/golokal), a PWA project connecting users to local vendors and small businesses <br/>
